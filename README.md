@@ -25,8 +25,10 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 - [x] 支持十余种数字货币（BTC、ETH、EOS、LTC、USDT、XRP、BCH 等）
 - [x] K 线图表
 - [x] 下单模式：市价下单、触发下单
+
       1、市价下单:不需要设定成交价格，直接按当时市场的对手价成交。
       2、触发下单:当您指定的价格到达后，按当时市场的对手价成交。
+
 - [x] 下单(买涨、买跌)
       1、标准版下单
       2、专业版下单
@@ -202,6 +204,14 @@ ICFD 支持多空双向交易，保证金低至 1%，收益放大 100 倍。
 
 # 部分截图
 
+## 前端展示
+
 ### 交易页面
 
 <img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/trade.png" width="365" height="619"/>
+
+## 后台管理
+
+### 交易对管理
+
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/manage1.png" width="365" height="619"/>
