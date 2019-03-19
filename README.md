@@ -214,4 +214,4 @@ ICFD 支持多空双向交易，保证金低至 1%，收益放大 100 倍。
 
 ### 交易对管理
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/manage1.png" width="365" height="619"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/manage1.png" width="2550" height="1336"/>
