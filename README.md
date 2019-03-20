@@ -212,6 +212,21 @@ ICFD 支持多空双向交易，保证金低至 1%，收益放大 100 倍。
 ### 交易页面
 
 <img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/trade.png" width="365" height="619"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/trade.gif" width="365" height="619"/>
+
+### 登录注册
+
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/login.gif" width="365" height="619"/>
+
+### 挖矿页面
+
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/mine.png" width="365" height="619"/>
+
+### 充值提币
+
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/sell.png" width="365" height="619"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/buy.png" width="365" height="619"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/tibi.png" width="365" height="619"/>
 
 ## 后台管理
 
